@@ -3,7 +3,7 @@
 > [!NOTE]
 > This game engine has not released yet, and is in the works!
 
-https://github.com/user-attachments/assets/d212b9c8-e790-4bdd-a69b-4a1f29dd4a80
+https://github.com/user-attachments/assets/f0ecde13-09c9-4d37-b98b-3e9213ee2357
 
 A 3D game engine for Python that runs in the terminal.
 
