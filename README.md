@@ -3,7 +3,7 @@
 > [!NOTE]
 > This game engine has not released yet, and is in the works!
 
-[![Cube Demonstration](./media/cube.mp3)](./media/cube.mp3)
+[![Cube Demonstration](./media/cube.mp4)](./media/cube.mp4)
 
 
 A 3D game engine for Python that runs in the terminal.
